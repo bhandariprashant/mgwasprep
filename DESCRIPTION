@@ -1,16 +1,15 @@
 Package: mgwasprep
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Does QC for mGWAS Data
 Version: 0.1.0
 Authors@R: c(
     person(
-      "Jane", "Doe",
+      "Prashant", "Bhandari",
       email = "prash87.pb@gmail.com",
       role = c("aut", "cre")
     )
   )
-Description: More about what it does (maybe more than one line).
-    Continuation lines should be indented.
+Description: does QC for cleaning data before running mGWAS.
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
