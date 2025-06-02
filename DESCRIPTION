@@ -13,3 +13,5 @@ Description: does QC for cleaning data before running mGWAS.
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
+URL: https://github.com/bhandariprashant/mgwasprep
+BugReports: https://github.com/bhandariprashant/mgwasprep/issues
